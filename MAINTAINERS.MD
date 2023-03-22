@@ -7,5 +7,6 @@
 | Telefonica | Diego Gonzalez |
 | Vodafone | Eric Murray |
 | Verizon | Syed Rehman |
+| Verizon | Mahesh Chapalamadugu |
 | Vonage | Chris Howell |
 | Ericson | Jan Friman |
